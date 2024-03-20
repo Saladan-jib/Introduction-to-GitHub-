@@ -1,2 +1,1 @@
-# Introduction-to-GitHub-
-cousera week 3
+am samuel, am editing the README file. adding some more details about the course.
